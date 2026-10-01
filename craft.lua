@@ -26,7 +26,7 @@ then
 		recipe =
 		{
 			{"mcl_mobitems:leather", "mcl_mobitems:leather", "mcl_mobitems:leather"},
-			{"mcl_mobitems:leather", "bucket:bucket_lava",   "mcl_mobitems:leather"},
+			{"mcl_mobitems:leather", "mcl_buckets:bucket_lava", "mcl_mobitems:leather"},
 			{"mcl_mobitems:string",  "group:wood",           "mcl_mobitems:string" },
 		},
 	})

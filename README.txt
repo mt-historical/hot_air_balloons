@@ -33,6 +33,12 @@ Crafting recipe 2 (MineClone 2):
 [L][V][L]
 [S][W][S]
 
+Mineclonia integration
+----------------------------------------
+Minor aesthetics are improved if you use the included client-side mod in tandem with the official Mineclonia [csm](https://codeberg.org/halon/mcl_localplayer/). To install, copy directory `csm_hot_air_balloons/` to `.minetest/clientmods/` and add this entry to `.minetest/clientmods/mods.conf`:
+
+    load_mod_csm_hot_air_balloons = mods/csm_hot_air_balloons
+
 See license.txt for proper license information.
 
 Author of code

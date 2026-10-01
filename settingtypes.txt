@@ -1,0 +1,4 @@
+# Use eye offset that is compatible with halon luanti client
+# but without client-side mod mcl_localplayer.
+# The official Luanti client should use false.
+hot_air_balloons.csm_eyeoffset (Eye offset for mcl_localplayer) bool false
